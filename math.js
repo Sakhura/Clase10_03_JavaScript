@@ -11,7 +11,7 @@ function multiplicar (a,b){
 }
 
 function dividir (a,b){
-    if ( b=== 0) return "Error: no se acepota división por cero"
+    if ( b=== 0) return "Error: no se acepta división por cero"
     return a / b;
 }
 
