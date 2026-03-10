@@ -14,3 +14,5 @@ function dividir (a,b){
     if ( b=== 0) return "Error: no se acepota división por cero"
     return a / b;
 }
+
+export { sumar, restar, multiplicar, dividir };
